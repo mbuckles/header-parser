@@ -14,12 +14,19 @@
     "cookie-parser": "~1.4.3",
     "cors": "^2.8.3",
     "debug": "~2.6.0",
+<<<<<<< HEAD
     "express": "^4.14.1",
+=======
+    "express": "~4.14.1",
+>>>>>>> f7a4ab0572720d909352a27c790bdfd5c8108b84
     "express-useragent": "^1.0.7",
     "jade": "~1.11.0",
     "morgan": "~1.7.0",
     "nodemon": "^1.11.0",
+<<<<<<< HEAD
     "path": "^0.12.7",
+=======
+>>>>>>> f7a4ab0572720d909352a27c790bdfd5c8108b84
     "serve-favicon": "~2.3.2"
   },
   "main": "app.js",
